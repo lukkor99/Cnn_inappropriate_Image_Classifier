@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-from app_utils import transform, get_predict
+from App.app_utils import transform, get_predict
 
 # app startup
 app = Flask(__name__)
