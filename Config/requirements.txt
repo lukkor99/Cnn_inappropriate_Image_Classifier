@@ -1,0 +1,7 @@
+torch 
+torchvision 
+torchaudio 
+Pillow
+Flask
+requires.io
+numpy
